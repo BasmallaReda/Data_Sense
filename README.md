@@ -1,5 +1,7 @@
 # Data_Sense
+
 Data Analysis project, data visualization and manipulation
+
 #Mamabers:
 
 24-101058    Hossam Abouelella  
@@ -13,4 +15,5 @@ Data Analysis project, data visualization and manipulation
 24-101074    Mohamed Samir 
 
 EUI, CIS, Data analysis project DE211
+
 2nd year, 2nd semester
