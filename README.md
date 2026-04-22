@@ -2,7 +2,7 @@
 
 Data Analysis project, data visualization and manipulation
 
-#Mamabers:
+# Mamabers:
 
 24-101058    Hossam Abouelella  
 
